@@ -36,6 +36,7 @@ While my daily production pipelines sit securely inside private enterprise repos
 
 * **School Bus Management System:** A full-stack solution featuring secure role-based access control dashboards, dynamic route mappings, and optimized MongoDB queries.
 * **Online Examination System:** An automated grading engine structured to handle session states, real-time timer tracking, and concurrent instant exam scoring logic.
+* - **[Online Examination System](https://github.com/m-shoukat-ali/online-exam):** An automated grading engine structured to handle session states, real-time timer tracking, and concurrent instant exam scoring logic.
 
 ---
 
