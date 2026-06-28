@@ -42,8 +42,7 @@ While my daily production pipelines sit securely inside private enterprise repos
 ### 📊 GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-shoukat-ali&show_icons=true&theme=radial&rank_icon=github" alt="Shoukat's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shoukat-ali&layout=compact&theme=radial" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shoukat-ali&layout=compact" alt="Top Langs" height="180" />
 </p>
 
 ---
